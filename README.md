@@ -1,5 +1,6 @@
 # LinkedIn Carousel Generator
-![image](https://github.com/mdabir1203/JohnCrickettChallenge/assets/66947064/d5bebcb0-4d38-4214-90dc-350a3aa4c441)
+<img src="https://github.com/mdabir1203/JohnCrickettChallenge/assets/66947064/d5bebcb0-4d38-4214-90dc-350a3aa4c441" width="200" height="200">
+
 
 LinkedIn Carousel Generator is a robust web application designed to simplify the creation of LinkedIn carousels. It's built with the power and safety of Rust, leveraging the Actix web framework for server-side operations, and HTML/CSS for a sleek, user-friendly client-side interface.
 
