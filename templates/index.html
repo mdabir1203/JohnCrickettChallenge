@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LinkedIn Carousel Generator</title>
+    <link rel="stylesheet" href="static/css/style.css">
+    <style>
+         @font-face {
+            font-family: 'DIN 1451';
+            src: url('static/css/DINEngschriftStd.otf') format('otf'); /* Update with the correct path and format */
+            font-weight: normal;
+            font-style: normal;
+        }
+    </style>
+</head>
+<body>
+    <div class="retro-container">
+        <header class="retro-header">
+            <h1>Retro LinkedIn Carousel</h1>
+            <p>Create impactful carousels with a classic touch.</p>
+        </header>
+        <form action="/upload" method="post" enctype="multipart/form-data" id="carouselForm" class="retro-form">
+            <div class="form-group retro-form-group">
+                <label for="images">Upload Images</label>
+                <input type="file" id="images" name="images" multiple>
+            </div>
+            <div class="form-group retro-form-group">
+                <label for="carouselText">Carousel Text</label>
+                <textarea id="carouselText" name="text" rows="4" placeholder="Enter text for your carousel..."></textarea>
+            </div>
+            <button type="submit" class="btn retro-btn">Generate Carousel</button>
+        </form>
+    </div>
+    <footer class="retro-footer">
+        <p>Created with ❤ and a dash of nostalgia.</p>
+    </footer>
+</body>
+</html>

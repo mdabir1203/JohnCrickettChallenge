@@ -1,0 +1,81 @@
+/* style.css */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'DIN 1451', Arial, sans-serif; /* Primary font is DIN 1451 */
+    background: #ebebeb; /* A soft, neutral background */
+    color: #333; /* Classic text color for professionalism */
+    line-height: 1.6;
+}
+
+.retro-container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    background: #fff; /* Clear and focused content area */
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.retro-header {
+    text-align: center;
+    padding: 20px 0;
+    background: #333; /* Strong contrast for header */
+    color: #f4f4f4; /* Light text for readability */
+}
+
+.retro-header h1 {
+    margin: 0;
+    font-weight: normal; /* Refined look */
+}
+
+.retro-header p {
+    font-size: 1.1em;
+    color: #ddd; /* Subtle for sophistication */
+}
+
+.retro-form {
+    padding: 20px;
+    border-top: 3px solid #333; /* Solid line for a touch of boldness */
+}
+
+.retro-form-group {
+    margin-bottom: 20px;
+}
+
+.retro-form-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: #555; /* Dark but softened for subtlety */
+}
+
+.retro-form-group input,
+.retro-form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc; /* Standard, clean border */
+    border-radius: 3px; /* Slightly rounded edges for modernity */
+    background: #fafafa; /* Light background for focus */
+}
+
+.retro-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #007bff; /* A confident blue */
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.retro-btn:hover {
+    background: #0056b3; /* Deeper blue on hover */
+}
+
+.retro-footer {
+    text-align: center;
+    padding: 20px 0;
+    background: #333; /* Continuity from the header */
+    color: #f4f4f4; /* Maintaining readability */
+    font-size: 0.8em;
+}
