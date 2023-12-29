@@ -1,6 +1,6 @@
 # LinkedIn Carousel Generator
 <p style="text-align: center;">
- <img src="https://github.com/mdabir1203/JohnCrickettChallenge/assets/66947064/d5bebcb0-4d38-4214-90dc-350a3aa4c441" width="200" height="200">
+ <img src="https://github.com/mdabir1203/JohnCrickettChallenge/assets/66947064/d5bebcb0-4d38-4214-90dc-350a3aa4c441" width="350" height="350">
 </p>
 
 
