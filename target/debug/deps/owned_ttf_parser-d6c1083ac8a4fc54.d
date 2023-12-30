@@ -1,0 +1,10 @@
+/System/Volumes/Data/sgoinfre/mabbas/LinkedinCarousel/target/debug/deps/owned_ttf_parser-d6c1083ac8a4fc54.rmeta: /sgoinfre/mabbas/Rust/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.15.2/src/lib.rs /sgoinfre/mabbas/Rust/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.15.2/src/convert.rs /sgoinfre/mabbas/Rust/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.15.2/src/owned.rs /sgoinfre/mabbas/Rust/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.15.2/src/preparse.rs
+
+/System/Volumes/Data/sgoinfre/mabbas/LinkedinCarousel/target/debug/deps/libowned_ttf_parser-d6c1083ac8a4fc54.rlib: /sgoinfre/mabbas/Rust/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.15.2/src/lib.rs /sgoinfre/mabbas/Rust/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.15.2/src/convert.rs /sgoinfre/mabbas/Rust/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.15.2/src/owned.rs /sgoinfre/mabbas/Rust/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.15.2/src/preparse.rs
+
+/System/Volumes/Data/sgoinfre/mabbas/LinkedinCarousel/target/debug/deps/owned_ttf_parser-d6c1083ac8a4fc54.d: /sgoinfre/mabbas/Rust/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.15.2/src/lib.rs /sgoinfre/mabbas/Rust/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.15.2/src/convert.rs /sgoinfre/mabbas/Rust/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.15.2/src/owned.rs /sgoinfre/mabbas/Rust/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.15.2/src/preparse.rs
+
+/sgoinfre/mabbas/Rust/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.15.2/src/lib.rs:
+/sgoinfre/mabbas/Rust/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.15.2/src/convert.rs:
+/sgoinfre/mabbas/Rust/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.15.2/src/owned.rs:
+/sgoinfre/mabbas/Rust/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.15.2/src/preparse.rs:

@@ -1,7 +1,7 @@
 // Core logic image and text processing 
 
 
-use image::{GenericImageView, ImageBuffer, Rgba};
+use image::{ImageBuffer, RgbaImage, DynamicImage,Rgba};
 use rusttype::{Font, Scale};
 
 
@@ -46,7 +46,7 @@ fn minimalist_text_overlay(
     let scale_factor = size / base_font_size;
 
     // For each character in the text, calculate its position and draw a simple box as a placeholder for the character
-    for (i, character) in text.chars().enumerate() {
+    for (i, _character) in text.chars().enumerate() {
         let char_width = (base_font_size * scale_factor) as i32;
         let char_height = (base_font_size * scale_factor) as i32;
 

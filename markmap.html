@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.15.9-alpha.0/dist/style.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.8.5/dist/d3.min.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.15.9-alpha.0/dist/browser/index.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.15.9-alpha.0/dist/index.js"></script><script>(()=>{setTimeout(()=>{const{markmap:W,mm:ne}=window,re=new W.Toolbar;re.attach(ne);const ke=re.render();ke.setAttribute("style","position:absolute;bottom:20px;right:20px"),document.body.append(ke)})})()</script><script>((x,k,O,L)=>{const H=x();window.mm=H.Markmap.create("svg#mindmap",(k||H.deriveOptions)(L),O)})(()=>window.markmap,null,{"content":"LinkedIn Carousel Generator","children":[{"content":"<strong>Server</strong>","children":[{"content":"Actix web framework","children":[]},{"content":"Listening on <strong>`127.0.0.1:8080`</strong>","children":[]},{"content":"Routes","children":[{"content":"<strong>/GET:</strong>  Returns welcome message","children":[]},{"content":"<strong>/POST:</strong>  Accepts form data and generates carousel","children":[]}]}]},{"content":"<strong>Client</strong>","children":[{"content":"HTML/CSS interface","children":[{"content":"Form for image upload and text input","children":[]},{"content":"\"Generate Carousel\" button to send form data to server","children":[]}]},{"content":"JavaScript for form handling and server communication","children":[]}]},{"content":"<strong>Image Processing</strong>","children":[{"content":"Handled in <strong>`src/lib.rs`</strong>","children":[]},{"content":"<strong>`TextProperties`</strong> struct: Holds text properties","children":[]},{"content":"<strong>`overlay_text_on_image`</strong> function: Overlays text on an image","children":[]},{"content":"<strong>`minimalist_text_overlay`</strong> function: Alternative text overlay function","children":[]}]},{"content":"<strong>Build Process</strong>","children":[{"content":"Managed by Cargo","children":[]},{"content":"Dependencies listed in <strong>`Cargo.toml`</strong> and <strong>`Cargo.lock`</strong>","children":[]},{"content":"Build command: <strong>`cargo build`</strong>","children":[]},{"content":"Run command: <strong>`cargo run`</strong>","children":[]}]},{"content":"<strong>Styling</strong>","children":[{"content":"CSS in <strong>`static/css/style.css`</strong>","children":[]},{"content":"Font file: <strong>`static/css/DINEngschriftStd.otf`</strong>","children":[]}]},{"content":"<strong>JavaScript</strong>","children":[{"content":"JavaScript files in <strong>`static/js/`</strong>","children":[]}]},{"content":"<strong>Deployment</strong>","children":[{"content":"Local server at <strong>`127.0.0.1:8080`</strong>","children":[]},{"content":"Run server with <strong>`cargo run`</strong>","children":[]}]},{"content":"<strong>Testing</strong>","children":[{"content":"Unit tests in <strong>`src/lib.rs`</strong>","children":[]},{"content":"Run tests with <strong>`cargo test`</strong>","children":[]}]}]},null)</script>
+</body>
+</html>
