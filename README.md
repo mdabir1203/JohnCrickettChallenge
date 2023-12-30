@@ -16,7 +16,9 @@ LinkedIn Carousel Generator is a robust web application designed to simplify the
 
 ## Architecture
 
-[Architecture Mindmap](https://github.com/mdabir1203/JohnCrickettChallenge/assets/66947064/bc95be80-6c47-41e6-96e1-7d8f144e48ff)
+**<video controls title="Architecture Mindmap">
+ <source src="https://github.com/mdabir1203/JohnCrickettChallenge/assets/66947064/bc95be80-6c47-41e6-96e1-7d8f144e48ff" type="video/mp4">
+</video>**
 
 The application runs on a server set up using the Actix framework, listening on `127.0.0.1:8080`. It features a single route (`/`) that responds with a welcome message.
 
