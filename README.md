@@ -16,6 +16,8 @@ LinkedIn Carousel Generator is a robust web application designed to simplify the
 
 ## Architecture
 
+https://github.com/mdabir1203/JohnCrickettChallenge/assets/66947064/bc95be80-6c47-41e6-96e1-7d8f144e48ff
+
 The application runs on a server set up using the Actix framework, listening on `127.0.0.1:8080`. It features a single route (`/`) that responds with a welcome message.
 
 The core logic for overlaying text on images is encapsulated in `src/lib.rs`. This includes the `TextProperties` struct for holding text properties, and two functions, `overlay_text_on_image` and `minimalist_text_overlay`, for performing the text overlay on an image.
