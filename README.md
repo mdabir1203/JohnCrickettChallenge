@@ -33,9 +33,3 @@ Experience the simplicity and efficiency of creating LinkedIn carousels with our
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-### MIT License
-
-The MIT License is a permissive free license that allows others to freely use, modify, and distribute your work, subject to certain conditions. It's simple and easy to understand, and it places almost no restrictions on what you can do with your project.
-
-For more details, see the full license text provided in the `LICENSE` file.
